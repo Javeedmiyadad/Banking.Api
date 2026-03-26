@@ -1,0 +1,427 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\VMAHAJ1\\source\\repos\\BankingService.API\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{561BE39A-8EB1-44A4-B710-195E58CFAC5F}|BankingService.API.csproj|c:\\users\\vmahaj1\\source\\repos\\bankingservice.api\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{561BE39A-8EB1-44A4-B710-195E58CFAC5F}|BankingService.API.csproj|solutionrelative:controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{561BE39A-8EB1-44A4-B710-195E58CFAC5F}|BankingService.API.csproj|c:\\users\\vmahaj1\\source\\repos\\bankingservice.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{561BE39A-8EB1-44A4-B710-195E58CFAC5F}|BankingService.API.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{561BE39A-8EB1-44A4-B710-195E58CFAC5F}|BankingService.API.csproj|c:\\users\\vmahaj1\\source\\repos\\bankingservice.api\\dtos\\accounttransactiondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{561BE39A-8EB1-44A4-B710-195E58CFAC5F}|BankingService.API.csproj|solutionrelative:dtos\\accounttransactiondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{561BE39A-8EB1-44A4-B710-195E58CFAC5F}|BankingService.API.csproj|c:\\users\\vmahaj1\\source\\repos\\bankingservice.api\\exceptions\\baseexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{561BE39A-8EB1-44A4-B710-195E58CFAC5F}|BankingService.API.csproj|solutionrelative:exceptions\\baseexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{561BE39A-8EB1-44A4-B710-195E58CFAC5F}|BankingService.API.csproj|c:\\users\\vmahaj1\\source\\repos\\bankingservice.api\\models\\transaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{561BE39A-8EB1-44A4-B710-195E58CFAC5F}|BankingService.API.csproj|solutionrelative:models\\transaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{561BE39A-8EB1-44A4-B710-195E58CFAC5F}|BankingService.API.csproj|c:\\users\\vmahaj1\\source\\repos\\bankingservice.api\\middleware\\exceptionmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{561BE39A-8EB1-44A4-B710-195E58CFAC5F}|BankingService.API.csproj|solutionrelative:middleware\\exceptionmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{561BE39A-8EB1-44A4-B710-195E58CFAC5F}|BankingService.API.csproj|c:\\users\\vmahaj1\\source\\repos\\bankingservice.api\\exceptions\\customexceptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{561BE39A-8EB1-44A4-B710-195E58CFAC5F}|BankingService.API.csproj|solutionrelative:exceptions\\customexceptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{561BE39A-8EB1-44A4-B710-195E58CFAC5F}|BankingService.API.csproj|c:\\users\\vmahaj1\\source\\repos\\bankingservice.api\\constants\\transactionlimits.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{561BE39A-8EB1-44A4-B710-195E58CFAC5F}|BankingService.API.csproj|solutionrelative:constants\\transactionlimits.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{561BE39A-8EB1-44A4-B710-195E58CFAC5F}|BankingService.API.csproj|c:\\users\\vmahaj1\\source\\repos\\bankingservice.api\\services\\transactionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{561BE39A-8EB1-44A4-B710-195E58CFAC5F}|BankingService.API.csproj|solutionrelative:services\\transactionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{561BE39A-8EB1-44A4-B710-195E58CFAC5F}|BankingService.API.csproj|c:\\users\\vmahaj1\\source\\repos\\bankingservice.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{561BE39A-8EB1-44A4-B710-195E58CFAC5F}|BankingService.API.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{561BE39A-8EB1-44A4-B710-195E58CFAC5F}|BankingService.API.csproj|c:\\users\\vmahaj1\\source\\repos\\bankingservice.api\\services\\itransactionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{561BE39A-8EB1-44A4-B710-195E58CFAC5F}|BankingService.API.csproj|solutionrelative:services\\itransactionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{561BE39A-8EB1-44A4-B710-195E58CFAC5F}|BankingService.API.csproj|c:\\users\\vmahaj1\\source\\repos\\bankingservice.api\\services\\iaccountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{561BE39A-8EB1-44A4-B710-195E58CFAC5F}|BankingService.API.csproj|solutionrelative:services\\iaccountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{561BE39A-8EB1-44A4-B710-195E58CFAC5F}|BankingService.API.csproj|c:\\users\\vmahaj1\\source\\repos\\bankingservice.api\\services\\accountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{561BE39A-8EB1-44A4-B710-195E58CFAC5F}|BankingService.API.csproj|solutionrelative:services\\accountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{561BE39A-8EB1-44A4-B710-195E58CFAC5F}|BankingService.API.csproj|c:\\users\\vmahaj1\\source\\repos\\bankingservice.api\\repositories\\transactionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{561BE39A-8EB1-44A4-B710-195E58CFAC5F}|BankingService.API.csproj|solutionrelative:repositories\\transactionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{561BE39A-8EB1-44A4-B710-195E58CFAC5F}|BankingService.API.csproj|c:\\users\\vmahaj1\\source\\repos\\bankingservice.api\\repositories\\itransactionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{561BE39A-8EB1-44A4-B710-195E58CFAC5F}|BankingService.API.csproj|solutionrelative:repositories\\itransactionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{561BE39A-8EB1-44A4-B710-195E58CFAC5F}|BankingService.API.csproj|c:\\users\\vmahaj1\\source\\repos\\bankingservice.api\\repositories\\accountrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{561BE39A-8EB1-44A4-B710-195E58CFAC5F}|BankingService.API.csproj|solutionrelative:repositories\\accountrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{561BE39A-8EB1-44A4-B710-195E58CFAC5F}|BankingService.API.csproj|c:\\users\\vmahaj1\\source\\repos\\bankingservice.api\\repositories\\iaccountrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{561BE39A-8EB1-44A4-B710-195E58CFAC5F}|BankingService.API.csproj|solutionrelative:repositories\\iaccountrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{561BE39A-8EB1-44A4-B710-195E58CFAC5F}|BankingService.API.csproj|c:\\users\\vmahaj1\\source\\repos\\bankingservice.api\\models\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{561BE39A-8EB1-44A4-B710-195E58CFAC5F}|BankingService.API.csproj|solutionrelative:models\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{561BE39A-8EB1-44A4-B710-195E58CFAC5F}|BankingService.API.csproj|c:\\users\\vmahaj1\\source\\repos\\bankingservice.api\\data\\bankingdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{561BE39A-8EB1-44A4-B710-195E58CFAC5F}|BankingService.API.csproj|solutionrelative:data\\bankingdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{561BE39A-8EB1-44A4-B710-195E58CFAC5F}|BankingService.API.csproj|c:\\users\\vmahaj1\\source\\repos\\bankingservice.api\\controllers\\transactionodatacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{561BE39A-8EB1-44A4-B710-195E58CFAC5F}|BankingService.API.csproj|solutionrelative:controllers\\transactionodatacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{561BE39A-8EB1-44A4-B710-195E58CFAC5F}|BankingService.API.csproj|c:\\users\\vmahaj1\\source\\repos\\bankingservice.api\\controllers\\transactioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{561BE39A-8EB1-44A4-B710-195E58CFAC5F}|BankingService.API.csproj|solutionrelative:controllers\\transactioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{561BE39A-8EB1-44A4-B710-195E58CFAC5F}|BankingService.API.csproj|c:\\users\\vmahaj1\\source\\repos\\bankingservice.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{561BE39A-8EB1-44A4-B710-195E58CFAC5F}|BankingService.API.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{561BE39A-8EB1-44A4-B710-195E58CFAC5F}|BankingService.API.csproj|c:\\users\\vmahaj1\\source\\repos\\bankingservice.api\\bankingservice.api.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{561BE39A-8EB1-44A4-B710-195E58CFAC5F}|BankingService.API.csproj|solutionrelative:bankingservice.api.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\VMAHAJ1\\AppData\\Roaming\\Microsoft\\UserSecrets\\b96a0baf-e413-47c8-9069-eb7a67eae731\\secrets.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BaseException.cs",
+              "DocumentMoniker": "C:\\Users\\VMAHAJ1\\source\\repos\\BankingService.API\\Exceptions\\BaseException.cs",
+              "RelativeDocumentMoniker": "Exceptions\\BaseException.cs",
+              "ToolTip": "C:\\Users\\VMAHAJ1\\source\\repos\\BankingService.API\\Exceptions\\BaseException.cs",
+              "RelativeToolTip": "Exceptions\\BaseException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-13T05:00:46.356Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Transaction.cs",
+              "DocumentMoniker": "C:\\Users\\VMAHAJ1\\source\\repos\\BankingService.API\\Models\\Transaction.cs",
+              "RelativeDocumentMoniker": "Models\\Transaction.cs",
+              "ToolTip": "C:\\Users\\VMAHAJ1\\source\\repos\\BankingService.API\\Models\\Transaction.cs",
+              "RelativeToolTip": "Models\\Transaction.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-11T05:49:41.864Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\VMAHAJ1\\source\\repos\\BankingService.API\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\VMAHAJ1\\source\\repos\\BankingService.API\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "Controllers\\AccountController.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-16T07:37:35.78Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\VMAHAJ1\\source\\repos\\BankingService.API\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\VMAHAJ1\\source\\repos\\BankingService.API\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-11T11:19:35.628Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AccountTransactionDto.cs",
+              "DocumentMoniker": "C:\\Users\\VMAHAJ1\\source\\repos\\BankingService.API\\DTOs\\AccountTransactionDto.cs",
+              "RelativeDocumentMoniker": "DTOs\\AccountTransactionDto.cs",
+              "ToolTip": "C:\\Users\\VMAHAJ1\\source\\repos\\BankingService.API\\DTOs\\AccountTransactionDto.cs",
+              "RelativeToolTip": "DTOs\\AccountTransactionDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-11T05:57:32.002Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ExceptionMiddleware.cs",
+              "DocumentMoniker": "C:\\Users\\VMAHAJ1\\source\\repos\\BankingService.API\\Middleware\\ExceptionMiddleware.cs",
+              "RelativeDocumentMoniker": "Middleware\\ExceptionMiddleware.cs",
+              "ToolTip": "C:\\Users\\VMAHAJ1\\source\\repos\\BankingService.API\\Middleware\\ExceptionMiddleware.cs",
+              "RelativeToolTip": "Middleware\\ExceptionMiddleware.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-13T05:12:47.105Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CustomExceptions.cs",
+              "DocumentMoniker": "C:\\Users\\VMAHAJ1\\source\\repos\\BankingService.API\\Exceptions\\CustomExceptions.cs",
+              "RelativeDocumentMoniker": "Exceptions\\CustomExceptions.cs",
+              "ToolTip": "C:\\Users\\VMAHAJ1\\source\\repos\\BankingService.API\\Exceptions\\CustomExceptions.cs",
+              "RelativeToolTip": "Exceptions\\CustomExceptions.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAAAA4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-13T08:34:07.128Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "TransactionLimits.cs",
+              "DocumentMoniker": "C:\\Users\\VMAHAJ1\\source\\repos\\BankingService.API\\Constants\\TransactionLimits.cs",
+              "RelativeDocumentMoniker": "Constants\\TransactionLimits.cs",
+              "ToolTip": "C:\\Users\\VMAHAJ1\\source\\repos\\BankingService.API\\Constants\\TransactionLimits.cs",
+              "RelativeToolTip": "Constants\\TransactionLimits.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-13T08:51:26.622Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "TransactionService.cs",
+              "DocumentMoniker": "C:\\Users\\VMAHAJ1\\source\\repos\\BankingService.API\\Services\\TransactionService.cs",
+              "RelativeDocumentMoniker": "Services\\TransactionService.cs",
+              "ToolTip": "C:\\Users\\VMAHAJ1\\source\\repos\\BankingService.API\\Services\\TransactionService.cs",
+              "RelativeToolTip": "Services\\TransactionService.cs",
+              "ViewState": "AgIAAEcAAAAAAAAAAAAAAEkAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-11T05:54:10.941Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\VMAHAJ1\\source\\repos\\BankingService.API\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\VMAHAJ1\\source\\repos\\BankingService.API\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-03-11T11:19:29.997Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ITransactionService.cs",
+              "DocumentMoniker": "C:\\Users\\VMAHAJ1\\source\\repos\\BankingService.API\\Services\\ITransactionService.cs",
+              "RelativeDocumentMoniker": "Services\\ITransactionService.cs",
+              "ToolTip": "C:\\Users\\VMAHAJ1\\source\\repos\\BankingService.API\\Services\\ITransactionService.cs",
+              "RelativeToolTip": "Services\\ITransactionService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-11T11:36:26.472Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IAccountService.cs",
+              "DocumentMoniker": "C:\\Users\\VMAHAJ1\\source\\repos\\BankingService.API\\Services\\IAccountService.cs",
+              "RelativeDocumentMoniker": "Services\\IAccountService.cs",
+              "ToolTip": "C:\\Users\\VMAHAJ1\\source\\repos\\BankingService.API\\Services\\IAccountService.cs",
+              "RelativeToolTip": "Services\\IAccountService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-11T11:35:37.687Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AccountService.cs",
+              "DocumentMoniker": "C:\\Users\\VMAHAJ1\\source\\repos\\BankingService.API\\Services\\AccountService.cs",
+              "RelativeDocumentMoniker": "Services\\AccountService.cs",
+              "ToolTip": "C:\\Users\\VMAHAJ1\\source\\repos\\BankingService.API\\Services\\AccountService.cs",
+              "RelativeToolTip": "Services\\AccountService.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAAACEAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-11T05:53:28.618Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "TransactionRepository.cs",
+              "DocumentMoniker": "C:\\Users\\VMAHAJ1\\source\\repos\\BankingService.API\\Repositories\\TransactionRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\TransactionRepository.cs",
+              "ToolTip": "C:\\Users\\VMAHAJ1\\source\\repos\\BankingService.API\\Repositories\\TransactionRepository.cs",
+              "RelativeToolTip": "Repositories\\TransactionRepository.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAAAB8AAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-11T05:56:31.716Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ITransactionRepository.cs",
+              "DocumentMoniker": "C:\\Users\\VMAHAJ1\\source\\repos\\BankingService.API\\Repositories\\ITransactionRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\ITransactionRepository.cs",
+              "ToolTip": "C:\\Users\\VMAHAJ1\\source\\repos\\BankingService.API\\Repositories\\ITransactionRepository.cs",
+              "RelativeToolTip": "Repositories\\ITransactionRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-11T11:35:07.414Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "AccountRepository.cs",
+              "DocumentMoniker": "C:\\Users\\VMAHAJ1\\source\\repos\\BankingService.API\\Repositories\\AccountRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\AccountRepository.cs",
+              "ToolTip": "C:\\Users\\VMAHAJ1\\source\\repos\\BankingService.API\\Repositories\\AccountRepository.cs",
+              "RelativeToolTip": "Repositories\\AccountRepository.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-11T05:55:33.911Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "IAccountRepository.cs",
+              "DocumentMoniker": "C:\\Users\\VMAHAJ1\\source\\repos\\BankingService.API\\Repositories\\IAccountRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\IAccountRepository.cs",
+              "ToolTip": "C:\\Users\\VMAHAJ1\\source\\repos\\BankingService.API\\Repositories\\IAccountRepository.cs",
+              "RelativeToolTip": "Repositories\\IAccountRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-11T11:34:30.001Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Account.cs",
+              "DocumentMoniker": "C:\\Users\\VMAHAJ1\\source\\repos\\BankingService.API\\Models\\Account.cs",
+              "RelativeDocumentMoniker": "Models\\Account.cs",
+              "ToolTip": "C:\\Users\\VMAHAJ1\\source\\repos\\BankingService.API\\Models\\Account.cs",
+              "RelativeToolTip": "Models\\Account.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-11T05:49:32.861Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "BankingDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\VMAHAJ1\\source\\repos\\BankingService.API\\Data\\BankingDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\BankingDbContext.cs",
+              "ToolTip": "C:\\Users\\VMAHAJ1\\source\\repos\\BankingService.API\\Data\\BankingDbContext.cs",
+              "RelativeToolTip": "Data\\BankingDbContext.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-12T05:23:50.96Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "TransactionODataController.cs",
+              "DocumentMoniker": "C:\\Users\\VMAHAJ1\\source\\repos\\BankingService.API\\Controllers\\TransactionODataController.cs",
+              "RelativeDocumentMoniker": "Controllers\\TransactionODataController.cs",
+              "ToolTip": "C:\\Users\\VMAHAJ1\\source\\repos\\BankingService.API\\Controllers\\TransactionODataController.cs",
+              "RelativeToolTip": "Controllers\\TransactionODataController.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-16T06:44:14.887Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "TransactionController.cs",
+              "DocumentMoniker": "C:\\Users\\VMAHAJ1\\source\\repos\\BankingService.API\\Controllers\\TransactionController.cs",
+              "RelativeDocumentMoniker": "Controllers\\TransactionController.cs",
+              "ToolTip": "C:\\Users\\VMAHAJ1\\source\\repos\\BankingService.API\\Controllers\\TransactionController.cs",
+              "RelativeToolTip": "Controllers\\TransactionController.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAAAkAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-11T11:32:45.613Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\VMAHAJ1\\source\\repos\\BankingService.API\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\VMAHAJ1\\source\\repos\\BankingService.API\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Properties\\launchSettings.json",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABAAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-03-16T06:53:43.779Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "secrets.json",
+              "DocumentMoniker": "C:\\Users\\VMAHAJ1\\AppData\\Roaming\\Microsoft\\UserSecrets\\b96a0baf-e413-47c8-9069-eb7a67eae731\\secrets.json",
+              "RelativeDocumentMoniker": "..\\..\\..\\AppData\\Roaming\\Microsoft\\UserSecrets\\b96a0baf-e413-47c8-9069-eb7a67eae731\\secrets.json",
+              "ToolTip": "C:\\Users\\VMAHAJ1\\AppData\\Roaming\\Microsoft\\UserSecrets\\b96a0baf-e413-47c8-9069-eb7a67eae731\\secrets.json",
+              "RelativeToolTip": "..\\..\\..\\AppData\\Roaming\\Microsoft\\UserSecrets\\b96a0baf-e413-47c8-9069-eb7a67eae731\\secrets.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-03-11T05:13:28.785Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "BankingService.API",
+              "DocumentMoniker": "C:\\Users\\VMAHAJ1\\source\\repos\\BankingService.API\\BankingService.API.csproj",
+              "RelativeDocumentMoniker": "BankingService.API.csproj",
+              "ToolTip": "C:\\Users\\VMAHAJ1\\source\\repos\\BankingService.API\\BankingService.API.csproj",
+              "RelativeToolTip": "BankingService.API.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-03-11T05:06:23.433Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
